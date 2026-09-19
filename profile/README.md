@@ -1,4 +1,4 @@
-# ClydeRevived
+# Clyde Lives On!
 
 
 > This organization aims to revive Discord's discontinued AI chatbot.
